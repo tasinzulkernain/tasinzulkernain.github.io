@@ -4,7 +4,7 @@ title: Zulkernain Tasin
 ---
 
 # Zulkernain Tasin
-**Robotics Engineer | Operations Specialist | Creative Entrepreneur | Musician** 📍 V. Gerulaičio g. 6, Vilnius, Lithuania  
+**Robotics Engineer | Operations Specialist | Creative Entrepreneur | Musician** 📍 Vilnius, Lithuania  
 📧 [zulkernaintasin.lt@gmail.com](mailto:zulkernaintasin.lt@gmail.com) | 📞 +370 603 05989  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/zulkernaintasin/)
 
