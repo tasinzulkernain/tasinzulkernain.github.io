@@ -23,7 +23,6 @@ I hold an **MBA in Deep-tech Entrepreneurship** from **Vilnius University** (202
 
 **Strategic & Research**
 * **Frameworks:** National Innovation Systems (NIS), Institutional Theory, Agile/Scrum
-* **Compliance:** EU AI Act, GDPR, PSD2 (Open Banking)
 * **Tools:** JIRA, Grafana, Notion, LaTeX, Google Workspace
 
 **Creative Production**
@@ -69,7 +68,7 @@ I hold an **MBA in Deep-tech Entrepreneurship** from **Vilnius University** (202
     * **Technical Direction:**
         * **Fogg Presents "The Night of Pritom Hasan":** Managed 6 Sony FX6s and 4 Sony A7S3s for live production.
         * **Dhaka Rock Fest 3.0:** Broadcast partner for a 2-day concert featuring 24 bands.
-        * **Anuv Jain Live:** Managed a 10-camera 4K production setup.
+        * **Anuv Jain Live:** Managed a 10-camera 4K production setup, video broadcasting.
 
 #### **Early Career & Contract Roles**
 * **Digital Marketing Lead @ Keedlee** (2022–2023): Executed content planning, online boosting strategies, and product photography.
