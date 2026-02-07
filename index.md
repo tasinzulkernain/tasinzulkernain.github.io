@@ -44,7 +44,7 @@ Multidisciplinary professional with a unique convergence of **Robotics Engineeri
 * **Technical Incident Resolution:** Troubleshot and resolved complex configuration issues across **Windows, macOS, Linux, iOS, Android, and Smart TVs**. Analyzed system logs and network configurations (TCP/IP) to identify root causes.
 * **Crisis Management:** Demonstrated high-performance resilience by handling **11 concurrent chats** (vs. standard capacity of 4) during major infrastructure outages.
 * **The Iran Initiative:** Proactively identified a severe connectivity crisis for users in Iran. Piloted a cross-functional solution using alternative infrastructure, achieving a **21% resolution rate** for previously blocked users. Developed macros to standardize the fix for the wider team.
-* **Engineering Leadership (Log Parser Project):** Spearheaded a swift initiative to fix a broken internal Log Parser tool. Personally utilized **PowerShell/C#** skills to implement the code fix and documented the new workflow, restoring operational efficiency for the night shift.
+* **Engineering Leadership (Log Parser Project):** Spearheaded a swift initiative to fix a broken internal Log Parser tool. Personally utilized **PowerShell/C#** skills to implement the code fix and documented the new workflow, restoring operational efficiency for the team.
 * **Process Improvement:** Initiated a "Root Cause Tracker" to distinguish between systemic errors and training gaps, reducing ticket misrouting between Care, Billing, and Tech departments.
 
 **Training Specialist (Interim/Intern)** | *09/2025 – 12/2025*
