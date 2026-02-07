@@ -2,9 +2,9 @@
 
 ### 🚀 Robotics Engineer | DeepTech Strategist | Operations Specialist
 
-I am a multidisciplinary engineer and entrepreneur bridging the gap between **hardware innovation**, **regulatory compliance** (GDPR/EU AI Act), and **operational excellence**. 
+I am a multidisciplinary engineer and entrepreneur bridging the gap between **hardware innovation**, **regulatory compliance**, and **operational excellence**. 
 
-I hold an **MBA in Deep-tech Entrepreneurship** from **Vilnius University** (2026) and a **B.Sc. in Mechatronics** from the **University of Dhaka**. My work focuses on solving complex "Product-Market Fit" challenges in contrasting ecosystems—from engineering hybrid UAVs in South Asia to optimizing support operations for Nord Security in the EU.
+I hold an **MBA in Deep-tech Entrepreneurship** from **Vilnius University** (2026) and a **B.Sc. in Mechatronics** from the **University of Dhaka**. My work focuses on solving complex "Product-Market Fit" challenges in contrasting ecosystems—from engineering hybrid UAVs in South Asia to optimizing support operations for NordVPN.
 
 ---
 
